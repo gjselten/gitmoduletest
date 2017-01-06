@@ -1,0 +1,3 @@
+[submodule "vendor/extensions/test_api"]
+	path = vendor/extensions/test_api
+	url = https://github.com/gjselten/test_api.git
